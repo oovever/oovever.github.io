@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-    
-    <entry>
-      <title><![CDATA[ecore学习资料]]></title>
-      <url>/2017/10/22/ecore%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</url>
-      <content type="html"><![CDATA[<ul>
-<li>元模型介绍：<a href="http://blog.sina.com.cn/s/blog_8077b6d901012iyf.html" target="_blank" rel="external">http://blog.sina.com.cn/s/blog_8077b6d901012iyf.html</a></li>
-<li>Ecore建立元模型用户指导：<a href="https://www.eclipse.org/ecoretools/doc/index.html" target="_blank" rel="external">https://www.eclipse.org/ecoretools/doc/index.html</a></li>
-<li>Ecore设计教程1：<a href="http://cedric.brun.io/eclipse/ecore-design-checklist-part1/" target="_blank" rel="external">http://cedric.brun.io/eclipse/ecore-design-checklist-part1/</a></li>
-<li>Ecore设计教程2：<a href="http://cedric.brun.io/eclipse/ecore-design-checklist-part2/" target="_blank" rel="external">http://cedric.brun.io/eclipse/ecore-design-checklist-part2/</a></li>
-<li>Ecore学习目录：<a href="http://cedric.brun.io/eclipse/ecore-design-checklist/" target="_blank" rel="external">http://cedric.brun.io/eclipse/ecore-design-checklist/</a></li>
-<li>Ecore图形描述：<a href="http://cedric.brun.io/eclipse/ecore-ecore-diagrams/" target="_blank" rel="external">http://cedric.brun.io/eclipse/ecore-ecore-diagrams/</a></li>
-</ul>
-]]></content>
-      
-        <categories>
-            
-            <category> sirius学习 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> ecore </tag>
-            
-            <tag> 资料 </tag>
-            
-        </tags>
-        
-    </entry>
-    
-  
-  
+<search>
+  <entry>
+    <title><![CDATA[ecore学习资料]]></title>
+    <url>%2F2017%2F10%2F22%2Fecore%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%2F</url>
+    <content type="text"><![CDATA[元模型介绍：http://blog.sina.com.cn/s/blog_8077b6d901012iyf.html Ecore建立元模型用户指导：https://www.eclipse.org/ecoretools/doc/index.html Ecore设计教程1：http://cedric.brun.io/eclipse/ecore-design-checklist-part1/ Ecore设计教程2：http://cedric.brun.io/eclipse/ecore-design-checklist-part2/ Ecore学习目录：http://cedric.brun.io/eclipse/ecore-design-checklist/ Ecore图形描述：http://cedric.brun.io/eclipse/ecore-ecore-diagrams/]]></content>
+      <categories>
+        <category>sirius学习</category>
+      </categories>
+      <tags>
+        <tag>ecore</tag>
+        <tag>资料</tag>
+      </tags>
+  </entry>
 </search>
